@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Git",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Install Node.js",
+    "completed": false
+  }
+]
